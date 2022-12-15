@@ -1,0 +1,4 @@
+yarn dlx @yarnpkg/sdks vscode
+yarn set version stable
+npm i
+in wsl yarn intsall
